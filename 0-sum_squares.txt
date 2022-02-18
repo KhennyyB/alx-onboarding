@@ -1,0 +1,8 @@
+Psuedocode to calculate the sum of squares of given input of numbers
+
+Step 1: Start Program
+Step 2: Input an interger N from the user
+Step 3: Set sum to Zero
+Step 4: Square of integer N
+Step 5: Calculate the sum from the square of N from the user
+Step 6: Print Sum
